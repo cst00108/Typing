@@ -1,0 +1,22 @@
+2014-10-27   20:27
+Net WPM:  0
+Gross WPM:  0
+Letters Typed:  0
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  0.0)
+(More Precise Gross:  0.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2016-01-26   22:44
+Net WPM:  -76
+Gross WPM:  23
+Letters Typed:  115
+Errors:  99
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  -76.0)
+(More Precise Gross:  23.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

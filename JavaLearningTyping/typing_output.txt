@@ -1,0 +1,1504 @@
+2014-10-19   19:27
+Net WPM:  17
+Gross WPM:  17
+Letters Typed:  14
+Errors:  0
+Letters focused on:  WORKING ON
+(More Precise Net:  16.8)
+(More Precise Gross:  16.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-19   19:30
+Net WPM:  1
+Gross WPM:  13
+Letters Typed:  11
+Errors:  2
+Letters focused on:  WORKING ON
+(More Precise Net:  1.200000000000001)
+(More Precise Gross:  13.200000000000001)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-19   19:34
+Net WPM:  18
+Gross WPM:  18
+Letters Typed:  15
+Errors:  0
+Letters focused on:  WORKING ON
+(More Precise Net:  18.0)
+(More Precise Gross:  18.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-19   22:16
+Net WPM:  4
+Gross WPM:  10
+Letters Typed:  8
+Errors:  1
+Letters focused on:  WORKING ON
+(More Precise Net:  3.6000000000000005)
+(More Precise Gross:  9.600000000000001)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-19   22:17
+Net WPM:  17
+Gross WPM:  17
+Letters Typed:  14
+Errors:  0
+Letters focused on:  WORKING ON
+(More Precise Net:  16.8)
+(More Precise Gross:  16.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-19   22:17
+Net WPM:  18
+Gross WPM:  18
+Letters Typed:  15
+Errors:  0
+Letters focused on:  WORKING ON
+(More Precise Net:  18.0)
+(More Precise Gross:  18.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-19   22:41
+Net WPM:  6
+Gross WPM:  18
+Letters Typed:  15
+Errors:  2
+Letters focused on:  WORKING ON
+(More Precise Net:  6.0)
+(More Precise Gross:  18.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   00:35
+Net WPM:  12
+Gross WPM:  13
+Letters Typed:  66
+Errors:  1
+Letters focused on:  WORKING ON
+(More Precise Net:  12.2)
+(More Precise Gross:  13.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   00:37
+Net WPM:  14
+Gross WPM:  15
+Letters Typed:  73
+Errors:  1
+Letters focused on:  WORKING ON
+(More Precise Net:  13.6)
+(More Precise Gross:  14.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   00:39
+Net WPM:  13
+Gross WPM:  14
+Letters Typed:  71
+Errors:  1
+Letters focused on:  WORKING ON
+(More Precise Net:  13.2)
+(More Precise Gross:  14.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   00:41
+Net WPM:  10
+Gross WPM:  14
+Letters Typed:  70
+Errors:  4
+Letters focused on:  WORKING ON
+(More Precise Net:  10.0)
+(More Precise Gross:  14.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   00:47
+Net WPM:  12
+Gross WPM:  15
+Letters Typed:  73
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  WORKING ON
+(More Precise Net:  11.6)
+(More Precise Gross:  14.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   01:34
+Net WPM:  5
+Gross WPM:  11
+Letters Typed:  53
+Errors:  6
+Test Length:  1.0 minute(s)
+Letters focused on:  WORKING ON
+(More Precise Net:  4.6)
+(More Precise Gross:  10.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   11:39
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  50
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  WORKING ON
+(More Precise Net:  9.0)
+(More Precise Gross:  10.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   15:33
+Net WPM:  10
+Gross WPM:  13
+Letters Typed:  65
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  WORKING ON
+(More Precise Net:  10.0)
+(More Precise Gross:  13.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   16:29
+Net WPM:  14
+Gross WPM:  15
+Letters Typed:  74
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  WORKING ON
+(More Precise Net:  13.8)
+(More Precise Gross:  14.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   16:42
+Net WPM:  -20
+Gross WPM:  17
+Letters Typed:  87
+Errors:  37
+Test Length:  1.0 minute(s)
+Letters focused on:  WORKING ON
+(More Precise Net:  -19.6)
+(More Precise Gross:  17.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-20   16:48
+Net WPM:  9
+Gross WPM:  11
+Letters Typed:  55
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  9.0)
+(More Precise Gross:  11.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   17:51
+Net WPM:  10
+Gross WPM:  13
+Letters Typed:  65
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  10.0)
+(More Precise Gross:  13.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   18:20
+Net WPM:  11
+Gross WPM:  13
+Letters Typed:  67
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  11.4)
+(More Precise Gross:  13.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   18:24
+Net WPM:  4
+Gross WPM:  13
+Letters Typed:  67
+Errors:  9
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  4.4)
+(More Precise Gross:  13.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   18:31
+Net WPM:  12
+Gross WPM:  14
+Letters Typed:  68
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  11.6)
+(More Precise Gross:  13.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   20:58
+Net WPM:  14
+Gross WPM:  16
+Letters Typed:  79
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  13.8)
+(More Precise Gross:  15.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:03
+Net WPM:  12
+Gross WPM:  15
+Letters Typed:  77
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  12.4)
+(More Precise Gross:  15.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:05
+Net WPM:  13
+Gross WPM:  15
+Letters Typed:  77
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  13.4)
+(More Precise Gross:  15.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:06
+Net WPM:  15
+Gross WPM:  16
+Letters Typed:  81
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  15.2)
+(More Precise Gross:  16.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:09
+Net WPM:  16
+Gross WPM:  17
+Letters Typed:  83
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  15.600000000000001)
+(More Precise Gross:  16.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:11
+Net WPM:  13
+Gross WPM:  15
+Letters Typed:  77
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  13.4)
+(More Precise Gross:  15.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:12
+Net WPM:  16
+Gross WPM:  17
+Letters Typed:  83
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  15.600000000000001)
+(More Precise Gross:  16.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:14
+Net WPM:  16
+Gross WPM:  16
+Letters Typed:  78
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  15.6)
+(More Precise Gross:  15.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:16
+Net WPM:  15
+Gross WPM:  16
+Letters Typed:  80
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  15.0)
+(More Precise Gross:  16.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:18
+Net WPM:  16
+Gross WPM:  17
+Letters Typed:  84
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  15.8)
+(More Precise Gross:  16.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:20
+Net WPM:  14
+Gross WPM:  16
+Letters Typed:  81
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  14.2)
+(More Precise Gross:  16.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:21
+Net WPM:  10
+Gross WPM:  14
+Letters Typed:  72
+Errors:  4
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  10.4)
+(More Precise Gross:  14.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-21   21:23
+Net WPM:  16
+Gross WPM:  16
+Letters Typed:  82
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  16.4)
+(More Precise Gross:  16.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:41
+Net WPM:  16
+Gross WPM:  17
+Letters Typed:  83
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  15.600000000000001)
+(More Precise Gross:  16.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:43
+Net WPM:  14
+Gross WPM:  18
+Letters Typed:  92
+Errors:  4
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  14.399999999999999)
+(More Precise Gross:  18.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:45
+Net WPM:  9
+Gross WPM:  15
+Letters Typed:  74
+Errors:  6
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  8.8)
+(More Precise Gross:  14.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:47
+Net WPM:  12
+Gross WPM:  16
+Letters Typed:  81
+Errors:  4
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  12.2)
+(More Precise Gross:  16.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:49
+Net WPM:  16
+Gross WPM:  17
+Letters Typed:  86
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  16.2)
+(More Precise Gross:  17.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:51
+Net WPM:  16
+Gross WPM:  16
+Letters Typed:  81
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  16.2)
+(More Precise Gross:  16.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:52
+Net WPM:  14
+Gross WPM:  16
+Letters Typed:  81
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  14.2)
+(More Precise Gross:  16.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:54
+Net WPM:  15
+Gross WPM:  16
+Letters Typed:  81
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  15.2)
+(More Precise Gross:  16.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   20:56
+Net WPM:  10
+Gross WPM:  16
+Letters Typed:  80
+Errors:  6
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  10.0)
+(More Precise Gross:  16.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:09
+Net WPM:  13
+Gross WPM:  17
+Letters Typed:  84
+Errors:  4
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  12.8)
+(More Precise Gross:  16.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:11
+Net WPM:  14
+Gross WPM:  17
+Letters Typed:  84
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  13.8)
+(More Precise Gross:  16.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:13
+Net WPM:  18
+Gross WPM:  19
+Letters Typed:  93
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  17.6)
+(More Precise Gross:  18.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:15
+Net WPM:  16
+Gross WPM:  18
+Letters Typed:  92
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  16.4)
+(More Precise Gross:  18.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:17
+Net WPM:  11
+Gross WPM:  17
+Letters Typed:  87
+Errors:  6
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  11.399999999999999)
+(More Precise Gross:  17.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:21
+Net WPM:  12
+Gross WPM:  17
+Letters Typed:  86
+Errors:  5
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  12.2)
+(More Precise Gross:  17.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:22
+Net WPM:  12
+Gross WPM:  17
+Letters Typed:  83
+Errors:  5
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  11.600000000000001)
+(More Precise Gross:  16.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:24
+Net WPM:  18
+Gross WPM:  18
+Letters Typed:  91
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  18.2)
+(More Precise Gross:  18.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-22   21:27
+Net WPM:  19
+Gross WPM:  20
+Letters Typed:  98
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  18.6)
+(More Precise Gross:  19.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-26   20:16
+Net WPM:  13
+Gross WPM:  16
+Letters Typed:  81
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  4
+(More Precise Net:  13.2)
+(More Precise Gross:  16.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   17:12
+Net WPM:  3
+Gross WPM:  8
+Letters Typed:  40
+Errors:  5
+Test Length:  1.0 minute(s)
+Letters focused on:  6
+(More Precise Net:  3.0)
+(More Precise Gross:  8.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   18:17
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  57
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  6
+(More Precise Net:  10.4)
+(More Precise Gross:  11.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   18:19
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  54
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  6
+(More Precise Net:  10.8)
+(More Precise Gross:  10.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   18:21
+Net WPM:  12
+Gross WPM:  12
+Letters Typed:  59
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  6
+(More Precise Net:  11.8)
+(More Precise Gross:  11.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   19:25
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  56
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  6
+(More Precise Net:  11.2)
+(More Precise Gross:  11.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   19:27
+Net WPM:  11
+Gross WPM:  13
+Letters Typed:  63
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  6
+(More Precise Net:  10.6)
+(More Precise Gross:  12.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   19:28
+Net WPM:  7
+Gross WPM:  9
+Letters Typed:  44
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  8
+(More Precise Net:  6.800000000000001)
+(More Precise Gross:  8.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   19:30
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  48
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  8
+(More Precise Net:  8.6)
+(More Precise Gross:  9.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   19:32
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  49
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  8.8)
+(More Precise Gross:  9.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   19:36
+Net WPM:  8
+Gross WPM:  9
+Letters Typed:  45
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  8.0)
+(More Precise Gross:  9.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   19:52
+Net WPM:  8
+Gross WPM:  10
+Letters Typed:  49
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  7.800000000000001)
+(More Precise Gross:  9.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   19:58
+Net WPM:  7
+Gross WPM:  9
+Letters Typed:  46
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  7.199999999999999)
+(More Precise Gross:  9.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:00
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  50
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  9.0)
+(More Precise Gross:  10.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:02
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  48
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  8.6)
+(More Precise Gross:  9.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:03
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  51
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  9.2)
+(More Precise Gross:  10.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:05
+Net WPM:  10
+Gross WPM:  10
+Letters Typed:  49
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  9.8)
+(More Precise Gross:  9.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:39
+Net WPM:  5
+Gross WPM:  9
+Letters Typed:  44
+Errors:  4
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  4.800000000000001)
+(More Precise Gross:  8.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:41
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  56
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.2)
+(More Precise Gross:  11.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:52
+Net WPM:  10
+Gross WPM:  10
+Letters Typed:  52
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.4)
+(More Precise Gross:  10.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:54
+Net WPM:  7
+Gross WPM:  9
+Letters Typed:  43
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  6.6)
+(More Precise Gross:  8.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-27   20:56
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  50
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  9.0)
+(More Precise Gross:  10.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   15:43
+Net WPM:  6
+Gross WPM:  8
+Letters Typed:  38
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  5.6)
+(More Precise Gross:  7.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   15:44
+Net WPM:  10
+Gross WPM:  10
+Letters Typed:  49
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  9.8)
+(More Precise Gross:  9.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   15:47
+Net WPM:  8
+Gross WPM:  10
+Letters Typed:  49
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  7.800000000000001)
+(More Precise Gross:  9.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   16:01
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  49
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  8.80)
+(More Precise Gross:  9.80)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   16:03
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  54
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.80)
+(More Precise Gross:  10.80)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   16:14
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  57
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.4)
+(More Precise Gross:  11.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   16:16
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  57
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  11.4)
+(More Precise Gross:  11.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   18:54
+Net WPM:  12
+Gross WPM:  12
+Letters Typed:  59
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  11.8)
+(More Precise Gross:  11.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   18:56
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  57
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.4)
+(More Precise Gross:  11.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   18:58
+Net WPM:  12
+Gross WPM:  12
+Letters Typed:  59
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  11.8)
+(More Precise Gross:  11.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   19:00
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  55
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.0)
+(More Precise Gross:  11.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   19:01
+Net WPM:  13
+Gross WPM:  13
+Letters Typed:  63
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  12.6)
+(More Precise Gross:  12.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   19:03
+Net WPM:  11
+Gross WPM:  12
+Letters Typed:  58
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.6)
+(More Precise Gross:  11.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   19:05
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  55
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.0)
+(More Precise Gross:  11.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-29   19:07
+Net WPM:  13
+Gross WPM:  13
+Letters Typed:  64
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  12.8)
+(More Precise Gross:  12.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-30   03:43
+Net WPM:  6
+Gross WPM:  9
+Letters Typed:  47
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  6.4)
+(More Precise Gross:  9.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-30   03:44
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  56
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.2)
+(More Precise Gross:  11.2)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-30   03:46
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  57
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.4)
+(More Precise Gross:  11.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-30   03:48
+Net WPM:  7
+Gross WPM:  9
+Letters Typed:  47
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  7.4)
+(More Precise Gross:  9.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-10-30   03:49
+Net WPM:  10
+Gross WPM:  10
+Letters Typed:  48
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  9.6)
+(More Precise Gross:  9.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:21
+Net WPM:  12
+Gross WPM:  12
+Letters Typed:  60
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  12.0)
+(More Precise Gross:  12.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:34
+Net WPM:  11
+Gross WPM:  12
+Letters Typed:  58
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  10.6)
+(More Precise Gross:  11.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:36
+Net WPM:  8
+Gross WPM:  10
+Letters Typed:  52
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  10
+(More Precise Net:  8.4)
+(More Precise Gross:  10.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:39
+Net WPM:  9
+Gross WPM:  9
+Letters Typed:  43
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  8.6)
+(More Precise Gross:  8.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:44
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  55
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  11.0)
+(More Precise Gross:  11.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:46
+Net WPM:  7
+Gross WPM:  10
+Letters Typed:  52
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  7.4)
+(More Precise Gross:  10.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:48
+Net WPM:  8
+Gross WPM:  9
+Letters Typed:  45
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  8.0)
+(More Precise Gross:  9.0)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:49
+Net WPM:  10
+Gross WPM:  10
+Letters Typed:  48
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  9.6)
+(More Precise Gross:  9.6)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:53
+Net WPM:  7
+Gross WPM:  10
+Letters Typed:  49
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  6.8)
+(More Precise Gross:  9.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:54
+Net WPM:  9
+Gross WPM:  9
+Letters Typed:  47
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  9.4)
+(More Precise Gross:  9.4)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:56
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  54
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  10.8)
+(More Precise Gross:  10.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   18:58
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  54
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  10.8)
+(More Precise Gross:  10.8)
+THINK EQUATION ERROR.  GOING TO GET SOME SLEEP FIRST.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   19:06
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  55
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  12
+(More Precise Net:  11.0)
+(More Precise Gross:  11.0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   19:08
+Net WPM:  5
+Gross WPM:  8
+Letters Typed:  38
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  2
+(More Precise Net:  4.6)
+(More Precise Gross:  7.6)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   19:10
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  54
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  9.8)
+(More Precise Gross:  10.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   19:12
+Net WPM:  7
+Gross WPM:  9
+Letters Typed:  46
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  7.2)
+(More Precise Gross:  9.19)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   19:13
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  56
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  11.2)
+(More Precise Gross:  11.2)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   19:14
+Net WPM:  10
+Gross WPM:  10
+Letters Typed:  48
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  9.6)
+(More Precise Gross:  9.6)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   20:04
+Net WPM:  9
+Gross WPM:  9
+Letters Typed:  47
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  9.4)
+(More Precise Gross:  9.4)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-01   20:09
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  55
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  11.0)
+(More Precise Gross:  11.0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:08
+Net WPM:  -1
+Gross WPM:  1
+Letters Typed:  3
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  -1.4)
+(More Precise Gross:  0.6)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:09
+Net WPM:  5
+Gross WPM:  6
+Letters Typed:  32
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  5.4)
+(More Precise Gross:  6.4)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:10
+Net WPM:  7
+Gross WPM:  9
+Letters Typed:  46
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  7.2)
+(More Precise Gross:  9.19)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:12
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  49
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  8.8)
+(More Precise Gross:  9.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:13
+Net WPM:  6
+Gross WPM:  8
+Letters Typed:  41
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  6.2)
+(More Precise Gross:  8.19)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:15
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  54
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  10.8)
+(More Precise Gross:  10.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:16
+Net WPM:  5
+Gross WPM:  8
+Letters Typed:  42
+Errors:  3
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  5.4)
+(More Precise Gross:  8.4)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:18
+Net WPM:  4
+Gross WPM:  6
+Letters Typed:  29
+Errors:  2
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  3.8)
+(More Precise Gross:  5.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:19
+Net WPM:  8
+Gross WPM:  9
+Letters Typed:  45
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  8.0)
+(More Precise Gross:  9.0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-02   10:33
+Net WPM:  6
+Gross WPM:  7
+Letters Typed:  34
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  5.8)
+(More Precise Gross:  6.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   01:16
+Net WPM:  8
+Gross WPM:  9
+Letters Typed:  45
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  8.0)
+(More Precise Gross:  9.0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   01:19
+Net WPM:  9
+Gross WPM:  9
+Letters Typed:  47
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  9.4)
+(More Precise Gross:  9.4)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   01:40
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  49
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  8.8)
+(More Precise Gross:  9.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   01:45
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  56
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  10.2)
+(More Precise Gross:  11.2)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   01:54
+Net WPM:  10
+Gross WPM:  11
+Letters Typed:  56
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  10.2)
+(More Precise Gross:  11.2)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   01:58
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  55
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  11.0)
+(More Precise Gross:  11.0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   02:09
+Net WPM:  7
+Gross WPM:  11
+Letters Typed:  53
+Errors:  4
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  6.6)
+(More Precise Gross:  10.6)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   02:15
+Net WPM:  0
+Gross WPM:  0
+Letters Typed:  0
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  0.0)
+(More Precise Gross:  0.0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-03   02:18
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  51
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  9.2)
+(More Precise Gross:  10.19)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-04   01:19
+Net WPM:  10
+Gross WPM:  10
+Letters Typed:  48
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  9.6)
+(More Precise Gross:  9.6)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-04   01:26
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  55
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  11.0)
+(More Precise Gross:  11.0)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-04   01:44
+Net WPM:  12
+Gross WPM:  12
+Letters Typed:  59
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  11.8)
+(More Precise Gross:  11.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-04   01:46
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  56
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  11.2)
+(More Precise Gross:  11.2)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-04   01:49
+Net WPM:  10
+Gross WPM:  10
+Letters Typed:  52
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  10.4)
+(More Precise Gross:  10.4)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2014-11-04   01:50
+Net WPM:  9
+Gross WPM:  10
+Letters Typed:  51
+Errors:  1
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  9.2)
+(More Precise Gross:  10.19)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+2016-02-04   20:07
+Net WPM:  11
+Gross WPM:  11
+Letters Typed:  54
+Errors:  0
+Test Length:  1.0 minute(s)
+Letters focused on:  14
+(More Precise Net:  10.8)
+(More Precise Gross:  10.8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
